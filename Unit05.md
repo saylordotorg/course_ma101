@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA101: Single-Variable Calculus I"
+course_description: "A survey of concrete applications of how calculus is used and, more importantly, why it works, through the introduction of topics including limits, derivatives, and integrals."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Curve Sketching** <span id="5"></span> 
 *This section will ask you to apply a little critical thinking to the
 topics this course has covered thus far.  To properly sketch a curve,

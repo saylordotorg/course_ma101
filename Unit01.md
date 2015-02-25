@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA101: Single-Variable Calculus I"
+course_description: "A survey of concrete applications of how calculus is used and, more importantly, why it works, through the introduction of topics including limits, derivatives, and integrals."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Analytic Geometry** <span id="1"></span> 
 *Most of the material in this unit will be review.  However, the notions
 of points, lines, circles, distance, and functions will be central in

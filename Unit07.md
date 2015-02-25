@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA101: Single-Variable Calculus I"
+course_description: "A survey of concrete applications of how calculus is used and, more importantly, why it works, through the introduction of topics including limits, derivatives, and integrals."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Integration** <span id="7"></span> 
 *In the last unit of this course, you will learn about “integral
 calculus,” a subfield of calculus that studies the area formed under the

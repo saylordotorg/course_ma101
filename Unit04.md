@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA101: Single-Variable Calculus I"
+course_description: "A survey of concrete applications of how calculus is used and, more importantly, why it works, through the introduction of topics including limits, derivatives, and integrals."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Transcendental Functions** <span id="4"></span> 
 *In this unit, you will investigate the derivatives of trigonometric,
 inverse trigonometric, exponential, and logarithmic functions.  Along

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA101: Single-Variable Calculus I"
+course_description: "A survey of concrete applications of how calculus is used and, more importantly, why it works, through the introduction of topics including limits, derivatives, and integrals."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Instantaneous Rate of Change: The Derivative** <span
 id="2"></span> 
 *In this unit, you will study the instantaneous rate of change of a

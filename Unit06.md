@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA101: Single-Variable Calculus I"
+course_description: "A survey of concrete applications of how calculus is used and, more importantly, why it works, through the introduction of topics including limits, derivatives, and integrals."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Applications of the Derivative** <span id="6"></span> 
 *With a sufficient amount of sophisticated machinery under your belt,
 you will now start to look at how differentiation can be used to solve

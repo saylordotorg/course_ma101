@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA101: Single-Variable Calculus I"
+course_description: "A survey of concrete applications of how calculus is used and, more importantly, why it works, through the introduction of topics including limits, derivatives, and integrals."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Rules for Finding Derivatives** <span id="3"></span> 
 *Computing a derivative requires computing a limit.  Because limit
 computations can be rather involved, we like to minimize the amount of

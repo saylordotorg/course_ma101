@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA101: Single-Variable Calculus I"
+course_description: "A survey of concrete applications of how calculus is used and, more importantly, why it works, through the introduction of topics including limits, derivatives, and integrals."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "MA101: Single-Variable Calculus I"
 -------------------------------------------------------
 

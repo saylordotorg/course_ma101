@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA101: Single-Variable Calculus I"
+course_description: "A survey of concrete applications of how calculus is used and, more importantly, why it works, through the introduction of topics including limits, derivatives, and integrals."
+next: ../../../
+previous: ../Unit07
+---
 **Unit 8: Final Exam** <span id="8"></span> 
 -   **Final Exam: The Saylor Foundation's “MA101 Final Exam”**
     Link: The Saylor Foundation's [“MA101 Final
