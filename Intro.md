@@ -8,6 +8,17 @@ previous: ../../../
 Course Syllabus for "MA101: Single-Variable Calculus I"
 -------------------------------------------------------
 
+**Please note: a fully-supported alternate version of this course is available at https://learn.saylor.org/course/ma101/. 
+This [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_ma101) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 This course is designed to introduce you to the study of calculus.  You
 will learn concrete applications of how calculus is used and, more
 importantly, why it works.  Calculus is not a new discipline; it has
