@@ -185,3 +185,4 @@ Tuesday night; etc.
 - [Unit 6](https://legacy.saylor.org/ma101/Unit06/)
 - [Unit 7](https://legacy.saylor.org/ma101/Unit07/)
 - [Unit 8](https://legacy.saylor.org/ma101/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/MA/MA101/MA101-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/MA/MA101/MA101-FinalExam-Answers.html)
