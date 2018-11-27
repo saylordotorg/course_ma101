@@ -51,7 +51,7 @@ Upon successful completion of this unit, the student will be able to:
     Transcendental Functions: “Section 4.1: Trigonometric Functions”**
     Link: Whitman College: David Guichard’s *Calculus:* Chapter 4:
     Transcendental Functions:  [“Section 4.1: Trigonometric
-    Functions”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 4.1
     (pages 71-74) in its entirety.  This reading will review the
@@ -73,14 +73,14 @@ Upon successful completion of this unit, the student will be able to:
     Transcendental Functions: “Exercises 4.1: Problems 1-4 and 11”**
     Link Whitman College: David Guichard’s Calculus: Chapter 4:
     Transcendental Functions: [“Exercises 4.1: Problems 1-4 and
-    11”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf)
+    11”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf)
     (PDF)   
       
 
     Instructions: Please click on the link above and work through
     problems 1-4 and 11.  When you are done, check your answers against
     [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).
 
      
 
@@ -105,7 +105,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Whitman College: Professor David Guichard’s
     *Calculus: *Chapter 4: Transcendental Functions:* *[“Section 4.2:
     The Derivative of sin
-    x”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    x”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 4.2
     (pages 74-75) in its entirety.  This reading begins the computation
@@ -131,7 +131,7 @@ Upon successful completion of this unit, the student will be able to:
     Transcendental Functions: “Section 4.3: A Hard Limit”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 4:
     Transcendental Functions: [“Section 4.3: A Hard
-    Limit”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    Limit”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 4.3
     (pages 75-77) in its entirety.  You have read this section
@@ -157,12 +157,12 @@ Upon successful completion of this unit, the student will be able to:
     Transcendental Functions: “Exercises 4.3: Problems 1-7”**
     Link: Professor David Guichard’s *Calculus: *Chapter 4:
     Transcendental Functions:* *[“Exercises 4.3: Problems
-    1-7”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    1-7”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-7.  When you are done, check your answers
     against [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately 30 minutes to
     complete.  
@@ -183,7 +183,7 @@ Upon successful completion of this unit, the student will be able to:
     continued”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 4:
     Transcendental Functions:* *[“Section 4.4: The Derivative of sin x,
-    continued”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    continued”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 4.4
     (pages 77-78) in its entirety.  This reading completes the
@@ -207,12 +207,12 @@ Upon successful completion of this unit, the student will be able to:
     Transcendental Functions: “Exercises 4.4: Problems 1-5”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 4:
     Transcendental Functions:* *[“Exercises 4.4, Problems
-    1-5”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    1-5”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-5.  When you are done, check your answers
     against [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately 30 minutes to
     complete.  
@@ -235,7 +235,7 @@ id="4.5"></span> 
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 4:
     Transcendental Functions:* *[“Section 4.5: Derivatives of the
     Trigonometric
-    Functions”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 4.5
     (pages 78 and 79) in its entirety.  Building on the work done to
@@ -260,12 +260,12 @@ id="4.5"></span> 
     Transcendental Functions: “Exercises 4.5: Problems 1-18”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 4:
     Transcendental Functions:* *[“Exercises 4.5: Problems
-    1-18”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    1-18”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-18.  When you are done, check your answers
     against [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately one hour to
     complete.  
@@ -286,7 +286,7 @@ id="4.5"></span> 
     Functions”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 4:
     Transcendental Functions: [“Section 4.6: Exponential and Logarithmic
-    Functions”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 4.6
     (pages 80-81) in its entirety.  This reading reviews the exponential
@@ -313,7 +313,7 @@ id="4.7"></span> 
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 4:
     Transcendental Functions:* *[“Section 4.7: Derivatives of the
     Exponential and Logarithmic
-    Functions”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 4.7
     (pages 82-86) in its entirety.  In this reading, the derivatives of
@@ -360,12 +360,12 @@ id="4.7"></span> 
     Transcendental Functions: “Exercises 4.7: Problems 1-15 and 20”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 4:
     Transcendental Functions: [“Exercises 4.7: Problems 1-15 and
-    20”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    20”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-15 and 20 for Exercise 4.7.  When you are done, check
     your answers against [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately one hour to
     complete.  
@@ -385,7 +385,7 @@ id="4.7"></span> 
     Transcendental Functions: “Section 4.8: Implicit Differentiation”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 4:
     Transcendental Functions:* *[“Section 4.8: Implicit
-    Differentiation”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    Differentiation”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 4.8
     (pages 87-90) in its entirety.  As a result of the chain rule, we
@@ -430,12 +430,12 @@ id="4.7"></span> 
     Transcendental Functions: “Exercises 4.8: Problems 1-9 and 11-16”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 4:
     Transcendental Functions:* *[“Exercises 4.8: Problems 1-9 and
-    11-16”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf#page=20) (PDF)  
+    11-16”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf#page=20) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-9 and 11-16 for Exercises 4.8.  When you are done, check
     your answers against [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately one hour to
     complete.  
@@ -456,7 +456,7 @@ id="4.7"></span> 
     Functions”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 4:
     Transcendental Functions:* *[“Section 4.9: Inverse Trigonometric
-    Functions”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 4.9
     (pages 91-94) in its entirety.  In this reading, implicit
@@ -481,7 +481,7 @@ id="4.7"></span> 
     Transcendental Functions: “Exercises 4.9: Problems 3-11”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 4:
     Transcendental Functions:* *[“Exercises 4.9: Problems
-    3-11”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    3-11”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 3-11 for Exercises 4.9.  When you are done, check your
@@ -505,7 +505,7 @@ id="4.7"></span> 
     Transcendental Functions: “Section 4.10: Limits Revisited”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 4:
     Transcendental Functions:* *[“Section 4.10: Limits
-    Revisited”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    Revisited”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 4.10
     (pages 94-97) in its entirety.  In this section, you will learn how
@@ -531,12 +531,12 @@ id="4.7"></span> 
     21-24”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 4:
     Transcendental Functions: [“Exercises 4.10: Problems 1-10 and
-    21-24”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    21-24”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above link and work through
     problems 1-10 and 21-24 for Exercise 4.10.  When you are done, check
     your answers against [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately one hour and 30
     minutes to complete.  
@@ -556,7 +556,7 @@ id="4.7"></span> 
     Transcendental Functions: “Section 4.11: Hyperbolic Functions”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 4:
     Transcendental Functions:* *[“Section 4.11: Hyperbolic
-    Functions”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 4.11
     (pages 99-102) in its entirety.  In this reading, you are introduced

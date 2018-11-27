@@ -43,7 +43,7 @@ Upon successful completion of this unit, the student will be able to:
     Analytic Geometry: “Section 1.1: Lines”**
     Link: Whitman College: David Guichard’s *Calculus:* Chapter 1:
     Analytic Geometry:* *[“Section 1.1:
-    Lines”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_01_Analytic_Geometry.pdf) (PDF)  
+    Lines”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_01_Analytic_Geometry.pdf) (PDF)  
         
      Instructions: Please click on the link above  and read Section 1.1
     (pages 14-17) in its entirety.  Working with lines should be
@@ -67,12 +67,12 @@ Upon successful completion of this unit, the student will be able to:
     Analytic Geometry: “Exercises 1.1: Problems 1-18”**
     Link: Whitman College: David Guichard’s *Calculus:* Chapter 1:
     Analytic Geometry: [“Exercises 1.1: Problems
-    1–18”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_01_Analytic_Geometry.pdf) (PDF)  
+    1–18”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_01_Analytic_Geometry.pdf) (PDF)  
         
      Instructions: Please click on the above link and work through
     problems 1-18.  When you are done, check your answers against
     [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      Completing this assignment should take you about two hours to
     complete.  
@@ -93,7 +93,7 @@ Upon successful completion of this unit, the student will be able to:
     Circles”**
     Link: Whitman College: David Guichard’s *Calculus:* Chapter 1:
     Analytic Geometry:* *[“Section 1.2: Distance Between Two Points;
-    Circles”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_01_Analytic_Geometry.pdf) (PDF)  
+    Circles”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_01_Analytic_Geometry.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 1.2
     (pages 19 and 20) in its entirety.  This reading reviews the notions
@@ -115,12 +115,12 @@ Upon successful completion of this unit, the student will be able to:
     Analytic Geometry: “Exercises 1.2: Problems 1, 2, 6”**
     Link: Whitman College: David Guichard’s *Calculus:* Chapter 1:
     Analytic Geometry:* *[“Exercises 1.2: Problems 1, 2,
-    6”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_01_Analytic_Geometry.pdf) (PDF)  
+    6”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_01_Analytic_Geometry.pdf) (PDF)  
         
      Instructions: Please click on the above link and work through
     problems 1, 2, and 6 in Exercises 1.2.  When you are done, to check
     your answers against [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately 30 minutes to
     complete.  
@@ -162,7 +162,7 @@ Upon successful completion of this unit, the student will be able to:
     Analytic Geometry: “Section 1.3: Functions”**
     Link: Whitman College: David Guichard’s *Calculus:* Chapter 1:
     Analytic Geometry:* *[“Section 1.3:
-    Functions”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_01_Analytic_Geometry.pdf) (PDF)  
+    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_01_Analytic_Geometry.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 1.3
     (pages 20-24) in its entirety.  This reading reviews the notion of
@@ -185,12 +185,12 @@ Upon successful completion of this unit, the student will be able to:
     Analytic Geometry: “Exercises 1.3: Problems 1-16”**
     Link: Whitman College: David Guichard’s *Calculus:* Chapter 1:
     Analytic Geometry:* *[“Exercises 1.3: Problems
-    1-16”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_01_Analytic_Geometry.pdf) (PDF)  
+    1-16”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_01_Analytic_Geometry.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-16.  When you are done, check your answers against
     [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately two hours to
     complete.  
@@ -210,7 +210,7 @@ Upon successful completion of this unit, the student will be able to:
     Analytic Geometry: “Section 1.4: Shifts and Dilations”**
     Link: Whitman College: David Guichard’s *Calculus:* Chapter 1:
     Analytic Geometry: [“Section 1.4: Shifts and
-    Dilations”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_01_Analytic_Geometry.pdf) (PDF)  
+    Dilations”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_01_Analytic_Geometry.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 1.4
     (pages 25-28) in its entirety.  This reading will review graph

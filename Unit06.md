@@ -53,7 +53,7 @@ Upon successful completion of this unit, the student will be able to:
     Applications of the Derivative: “Section 6.1: Optimization”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 6:
     Applications of the Derivative: [“Section 6.1:
-    Optimization”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
+    Optimization”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 6.1
     (pages 115-124) in its entirety.  An important application of the
@@ -105,12 +105,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: Whitman College: Professor David Guichard’s *Calculus:*
     [“Chapter 6: Applications of the Derivative:” “Exercises 6.1,
     Problems 5, 7, 9, 10, 14, 16, 22, 26, 28,
-    33”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
+    33”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
         
      Instructions: Please click on the link above link and work through
     problems 5, 7, 9, 10, 14, 16, 22, 26, 28, and 33 for Exercises 6.1. 
     When you are done, to check your answers against [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
       
      This assignment should take you approximately one hour to
     complete.  
@@ -138,7 +138,7 @@ to these questions.*
     Applications of the Derivative: “Section 6.2: Related Rates”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 6:
     Applications of the Derivative:* *[“Section 6.2: Related
-    Rates”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
+    Rates”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 6.2
     (pages 127-132) in its entirety.  Another application of the chain
@@ -189,15 +189,15 @@ to these questions.*
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 6:
     Applications of the Derivative:* *[“Exercises 6.2: Problems 1, 3, 5,
     11, 14, 16, 19-21, and
-    25”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
+    25”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
         
      Solutions: *Ibid:* [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf) (PDF)  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf) (PDF)  
         
      Instructions: Please click on the above link, and work through
     problems 1, 3, 5, 11, 14, 16, 19-21, and 25 for Exercises 6.2.  When
     you are done, check your answers against [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately one hour to
     complete.  
@@ -229,7 +229,7 @@ far from the root, an algorithm can be led awry in certain situations.*
     Applications of the Derivative: “Section 6.3: Newton's Method”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 6:
     Applications of the Derivative:* *[“Section 6.3: Newton's
-    Method”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
+    Method”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 6.3
     (pages 135-138) in its entirety.  In this section, you will be
@@ -276,12 +276,12 @@ far from the root, an algorithm can be led awry in certain situations.*
     Applications of the Derivative: “Exercises 6.3: Problems 1-4”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 6:
     Applications of the Derivative:* *[“Exercises 6.3: Problems
-    1-4”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
+    1-4”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
         
      Instructions: Please click on the link above link and work through
     problems 1-4 for Exercises 6.3.  When you are done, check your
     answers [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
       
      This assignment should take you approximately 30 minutes to
     complete.  
@@ -307,7 +307,7 @@ the field of economics.*
     Approximations”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 6:
     Applications of the Derivative:* *[“Section 6.4: Linear
-    Approximations”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
+    Approximations”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 6.4
     (pages 139-140) in its entirety.  In this reading, you will see how
@@ -356,12 +356,12 @@ the field of economics.*
     Applications of the Derivative: “Exercises 6.4: Problems 1-4”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 6:
     Applications of the Derivative:* *[“Exercises 6.4: Problems
-    1-4”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
+    1-4”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
         
      Instructions: Please click on the link above link and work through
     problems 1-4 for Exercises 6.4.  When you are done, check your
     answers against [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).
     Please note that the correct answer for 6.4.4 is actually <span
     style="color: rgb(255, 255, 0);"><span
     style="background-color: rgb(255, 255, 0);">32π/25</span></span>
@@ -386,7 +386,7 @@ the field of economics.*
     Theorem”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 6:
     Applications of the Derivative:* *[“Section 6.5: The Mean Value
-    Theorem”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
+    Theorem”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 6.5
     (pages 141-144) in its entirety.  The Mean Value Theorem is an
@@ -435,10 +435,10 @@ the field of economics.*
     Link: Whitman College: Professor David Guichard’s *Calculus:*
     [“Chapter 6: Applications of the Derivative”: “Exercises 6.5,
     Problems 1, 2,
-    6-9”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
+    6-9”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_06_Applications_of_the_Derivative.pdf) (PDF)  
         
      Solutions: *Ibid:* [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf) (PDF)  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf) (PDF)  
         
      Instructions: Please click on the above link, and work through
     problems 1, 2, and 6-9 for Exercise 6.5.  When you are done, click
