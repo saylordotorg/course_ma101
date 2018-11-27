@@ -37,7 +37,7 @@ Upon successful completion of this unit, the student will be able to:
     Curve Sketching: “Section 5.1: Maxima and Minima”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 5: Curve
     Sketching:* *[“Section 5.1: Maxima and
-    Minima”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
+    Minima”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 5.1
     (pages 103-106) in its entirety.  Fermat's Theorem indicates how
@@ -83,12 +83,12 @@ Upon successful completion of this unit, the student will be able to:
     Curve Sketching: “Exercises 5.1: Problems 1-12 and 15”**
     Link: David Guichard’s *Calculus: *Chapter 5: Curve
     Sketching:* *[“Exercises 5.1: Problems 1-12 and
-    15”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
+    15”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-12 and 15 for Exercises 5.1.  When you are done, check
     your answers against [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately one hour to
     complete.  
@@ -108,7 +108,7 @@ Upon successful completion of this unit, the student will be able to:
     Curve Sketching: “Section 5.2: The First Derivative Test”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 5: Curve
     Sketching: [“Section 5.2: The First Derivative
-    Test”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
+    Test”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 5.2
     (page 107) in its entirety.  In this reading, you will see how to
@@ -132,12 +132,12 @@ Upon successful completion of this unit, the student will be able to:
     Curve Sketching: “Exercises 5.2: Problems 1-15”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 5: Curve
     Sketching:* *[“Exercises 5.2: Problems
-    1-15”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
+    1-15”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-15 for Exercises 5.2.  When you are done, check your
     answers against [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately one hour and 30
     minutes to complete.  
@@ -157,7 +157,7 @@ Upon successful completion of this unit, the student will be able to:
     Curve Sketching: “Section 5.3: The Second Derivative Test”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 5: Curve
     Sketching: [“Section 5.3: The Second Derivative
-    Test”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
+    Test”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 5.3
     (pages 108-109) in its entirety.  In this reading, you will see how
@@ -182,12 +182,12 @@ Upon successful completion of this unit, the student will be able to:
     Curve Sketching: “Exercises 5.3: Problems 1-10”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 5: Curve
     Sketching:* *[“Exercises 5.3: Problems
-    1-10”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
+    1-10”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-10 for Exercises 5.3.  When you are done, check your
     answers against [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately one hour to
     complete.  
@@ -207,7 +207,7 @@ Upon successful completion of this unit, the student will be able to:
     Curve Sketching: “Section 5.4: Concavity and Inflection Points”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 5: Curve
     Sketching:* *[“Section 5.4: Concavity and Inflection
-    Points”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
+    Points”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 5.4
     (pages 109-110) in its entirety.  In this reading, you will see how
@@ -232,12 +232,12 @@ Upon successful completion of this unit, the student will be able to:
     Curve Sketching: “Exercises 5.4: Problems 1-9 and 19”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 5: Curve
     Sketching:* *[“Exercises 5.4: Problems 1-9 and
-    19”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
+    19”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-9 and 19 for Exercises 5.4.  When you are done, check
     your answers against [“Appendix A:
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately one hour to
     complete.  
@@ -258,7 +258,7 @@ Upon successful completion of this unit, the student will be able to:
     For”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 5: Curve
     Sketching:* *[“Section 5.5: Asymptotes and Other Things to Look
-    For”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
+    For”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 5.5
     (pages 111-112) in its entirety.  In this reading, you will see how
@@ -306,7 +306,7 @@ Upon successful completion of this unit, the student will be able to:
     Curve Sketching: “Exercises 5.5: Problems 1-5 and 15-19”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 5: Curve
     Sketching:* *[“Exercises 5.5: Problems 1-5 and
-    15-19”](http://www.saylor.org/site/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
+    15-19”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_05_Curve_Sketching.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-5 and 15-19 for Exercises 5.5.  When you are done, graph
