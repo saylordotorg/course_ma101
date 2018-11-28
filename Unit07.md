@@ -43,7 +43,7 @@ Upon successful completion of this unit, the student will be able to:
     Integration: “Section 7.1: Two Examples”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 7:
     Integration:* *[“Section 7.1: Two
-    Examples”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_07_Integration.pdf) (PDF)  
+    Examples”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_07_Integration.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 7.1
     (pages 145-149) in its entirety.  This reading introduces the
@@ -91,12 +91,12 @@ Upon successful completion of this unit, the student will be able to:
     Integration: “Exercises 7.1: Problems 1-8”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 7:
     Integration:* *[“Exercises 7.1: Problems
-    1-8”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_07_Integration.pdf) (PDF)  
+    1-8”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_07_Integration.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-8 for Exercises 7.1.  When you are done, check your
     answers against [“Appendix A:
-    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately one hour to
     complete.  
@@ -124,7 +124,7 @@ makes the computation of definite integrals significantly easier.*
     Integration: “Section 7.2: The Fundamental Theorem of Calculus”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 7:
     Integration:* *[“Section 7.2: The Fundamental Theorem of
-    Calculus”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_07_Integration.pdf) (PDF)  
+    Calculus”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_07_Integration.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 7.2
     (pages 149-155) in its entirety.  Pay close attention to the
@@ -192,12 +192,12 @@ makes the computation of definite integrals significantly easier.*
     Integration: “Exercises 7.2: Problems 7-22”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 7:
     Integration:* *[“Exercises 7.2: Problems
-    7-22”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_07_Integration.pdf) (PDF)  
+    7-22”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_07_Integration.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 7-22 for Exercises 7.2.  When you are done, check your
     answers against [“Appendix A:
-    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
       
      This assignment should take you approximately two hours to
     complete.  
@@ -217,7 +217,7 @@ makes the computation of definite integrals significantly easier.*
     Integration: “Section 7.3: Some Properties of Integrals”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 7:
     Integration:* *[“Section 7.3: Some Properties of
-    Integrals”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_07_Integration.pdf) (PDF)  
+    Integrals”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_07_Integration.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 7.3
     (pages 156-160) in its entirety.  In particular, note that the
@@ -264,12 +264,12 @@ makes the computation of definite integrals significantly easier.*
     Integration: “Exercises 7.3: Problems 1-6”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 7:
     Integration:* *[“Exercises 7.3: Problems
-    1-6”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_07_Integration.pdf) (PDF)  
+    1-6”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_07_Integration.pdf) (PDF)  
         
      Instructions: Please click on the link above link and work through
     problems 1-6 for Exercises 7.3.  When you are done, check your
     answers against [“Appendix A:
-    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately 45 minutes to
     complete.  
@@ -289,7 +289,7 @@ makes the computation of definite integrals significantly easier.*
     Techniques of Integration: “Section 8.1: Substitution”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 8:
     Techniques of Integration:* *[“Section 8.1:
-    Substitution”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_08_Techniques_of_Integration.pdf) (PDF)  
+    Substitution”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_08_Techniques_of_Integration.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 8.1
     (pages 161-166) in its entirety.  This section explains the process
@@ -338,12 +338,12 @@ makes the computation of definite integrals significantly easier.*
     Techniques of Integration: “Exercises 8.1: Problems 5-19”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 8:
     Techniques of Integration: [“Exercises 8.1: Problems
-    5-19”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_08_Techniques_of_Integration.pdf) (PDF)  
+    5-19”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_08_Techniques_of_Integration.pdf) (PDF)  
         
      Instructions: Please click on the link above link and work through
     problems 5-19 for Exercises 8.1.  When you are done, check your
     answers against [“Appendix A:
-    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately two hours to
     complete.  

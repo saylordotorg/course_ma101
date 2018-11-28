@@ -36,7 +36,7 @@ Upon successful completion of this unit, the student will be able to:
     Rules for Finding Derivatives: “Section 3.1: The Power Rule”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 3: Rules
     for Finding Derivatives:* *[“Section 3.1: The Power
-    Rule”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
+    Rule”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 3.1
     (pages 55-57) in its entirety.  This section will show you a simple
@@ -60,12 +60,12 @@ Upon successful completion of this unit, the student will be able to:
     Rules for Finding Derivatives: “Exercises 3.1: Problems 1-6”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 3: Rules
     for Finding Derivatives: [“Exercises 3.1: Problems
-    1-6”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
+    1-6”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
         
      Instructions: Please click on the above link and work through
     problems 1-6.  When you are done, check your answers
     against [“Appendix A:
-    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately 30 minutes to
     complete.  
@@ -86,7 +86,7 @@ Upon successful completion of this unit, the student will be able to:
     Derivative”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 3: Rules
     for Finding Derivatives:* *[“Section 3.2: Linearity of the
-    Derivative”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
+    Derivative”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 3.2
     (pages 58-59) in its entirety.  In this reading, you will see how
@@ -112,12 +112,12 @@ Upon successful completion of this unit, the student will be able to:
     12”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 3: Rules
     for Finding Derivatives: [“Exercises 3.2: Problems 1-9, 11, and
-    12”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
+    12”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-9, 11, and 12.  When you are done, check your
     answers [“Appendix A:
-    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately one hour to
     complete.  
@@ -137,7 +137,7 @@ Upon successful completion of this unit, the student will be able to:
     Rules for Finding Derivatives: “Section 3.3: The Product Rule”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 3: Rules
     for Finding Derivatives:* *[“Section 3.3: The Product
-    Rule”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
+    Rule”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 3.3
     (pages 60-61) in its entirety.  The naïve assumption is that the
@@ -164,12 +164,12 @@ Upon successful completion of this unit, the student will be able to:
     Rules for Finding Derivatives: “Exercises 3.3: Problems 1-5”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 3: Rules
     for Finding Derivatives:* *[“Exercises 3.3: Problems
-    1-5”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
+    1-5”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-5.  When you are done, check your answers
     against [“Appendix A:
-    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately 30 minutes to
     complete.  
@@ -225,7 +225,7 @@ Upon successful completion of this unit, the student will be able to:
     Rules for Finding Derivatives: “Section 3.4: The Quotient Rule”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 3: Rules
     for Finding Derivatives: [“Section 3.4: The Quotient
-    Rule”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
+    Rule”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 3.4
     (pages 62-65) in its entirety.  As with product of two functions,
@@ -252,12 +252,12 @@ Upon successful completion of this unit, the student will be able to:
     9”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 3: Rules
     for Finding Derivatives:* *[“Exercises 3.4: Problems 5, 6, 8, and
-    9”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
+    9”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 5, 6, 8, and 9.  When you are done, check your answers
     against [“Appendix A:
-    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately 30 minutes to
     complete.  
@@ -277,7 +277,7 @@ Upon successful completion of this unit, the student will be able to:
     Rules for Finding Derivatives: “Section 3.5: The Chain Rule”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 3: Rules
     for Finding Derivatives: [“Section 3.5: The Chain
-    Rule”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
+    Rule”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 3.5
     (pages 65-69) in its entirety.  The chain rule explains how the
@@ -324,12 +324,12 @@ Upon successful completion of this unit, the student will be able to:
     36-39”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 3: Rules
     for Finding Derivatives: [“Exercises 3.5: Problems 1-20 and
-    36-39”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
+    36-39”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_03_Rules_for_Finding_Derivatives.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-20 and 36-39.  When you are done, check your answers
     against [“Appendix A:
-    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately three hours to
     complete.  

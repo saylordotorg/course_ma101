@@ -72,7 +72,7 @@ functions.*
     Link: Whitman College: David Guichard’s *Calculus:* Chapter 2:
     Instantaneous Rate of Change: The Derivative: [“Section 2.1: The
     Slope of a
-    Function”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf) (PDF)  
+    Function”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 2.1
     (pages 29-33) in its entirety.  You will be introduced to the notion
@@ -122,13 +122,13 @@ functions.*
     Link: Whitman College: David Guichard’s *Calculus:* Chapter 2:
     Instantaneous Rate of Change: The Derivative: [“Exercises 2.1:
     Problems
-    1-6”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf)
+    1-6”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf)
     (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-6.  When you are done, check your answers against
     [“Appendix A:
-    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
       
      This assignment should take you approximately 30 minutes to
     complete.  
@@ -149,7 +149,7 @@ functions.*
     Example”**
     Link: Whitman College: David Guichard’s *Calculus:* Chapter 2:
     Instantaneous Rate of Change: The Derivative: [“Section 2.2: An
-    Example”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf) (PDF)  
+    Example”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 2.2
     (pages 34-36) in its entirety.  This reading discusses the
@@ -175,12 +175,12 @@ functions.*
     Link: Whitman College: David Guichard’s *Calculus:* Chapter 2:
     Instantaneous Rate of Change: The Derivative: [“Exercises 2.2:
     Problems
-    1-3”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf) (PDF)  
+    1-3”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-3.  When you are done, check your answers
     against [“Appendix A:
-    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
       
      This assignment should take you approximately 30 minutes to
     complete.  
@@ -212,7 +212,7 @@ id="2.3.1"></span> 
     Limits”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 2:
     Instantaneous Rate of Change: The Derivative:* *[“Section 2.3:
-    Limits”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf) (PDF)  
+    Limits”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 2.3
     (pages 36-45) in its entirety.  Read this section carefully and pay
@@ -260,12 +260,12 @@ id="2.3.1"></span> 
     Link: Whitman College: David Guichard’s *Calculus:* Chapter 2:
     Instantaneous Rate of Change: The Derivative: [“Exercises 2.3:
     Problems
-    1-18”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf) (PDF)  
+    1-18”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-18.  When you are done, check your answers
     against [“Appendix A:
-    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately two hours to
     complete.  
@@ -302,7 +302,7 @@ id="2.3.1"></span> 
     Transcendental Functions: “Section 4.3: A Hard Limit”**
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 4:
     Transcendental Functions:* *[“Section 4.3: A Hard
-    Limit”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
+    Limit”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_04_Transcendental_Functions.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 4.3
     (pages 75-77) in its entirety.  The Squeeze Theorem is an important
@@ -341,7 +341,7 @@ id="2.3.1"></span> 
     Link: Whitman College: David Guichard’s *Calculus: *Chapter 2:
     Instantaneous Rate of Change: The Derivative:* *[“Section 2.4: The
     Derivative
-    Function”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf) (PDF)  
+    Function”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 2.4
     (pages 46-50) in its entirety.  In this reading, you will see how
@@ -371,12 +371,12 @@ id="2.3.1"></span> 
     Link: Whitman College: David Guichard’s Calculus: Chapter 2:
     Instantaneous Rate of Change: The Derivative: [“Exercises 2.4:
     Problems 1-5 and
-    8-11”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf) (PDF)  
+    8-11”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf) (PDF)  
         
      Instructions: Please click on the link above and work through
     problems 1-5 and 8-11.  When you are done, check your answers
     against [“Appendix A:
-    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
+    Answers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_12_Selected_Answers.pdf).  
         
      This assignment should take you approximately one hour to
     complete.  
@@ -398,7 +398,7 @@ id="2.3.1"></span> 
     Link: Whitman College: David Guichard’s *Calculus:* Chapter 2:
     Instantaneous Rate of Change: The Derivative: [“Section 2.5:
     Adjectives for
-    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf) (PDF)  
+    Functions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/calculus_02_Instantaneous_Rate_of_Change-_The_Derivative.pdf) (PDF)  
         
      Instructions: Please click on the link above and read Section 2.5
     (pages 51-54) in its entirety.  This reading covers the topics
